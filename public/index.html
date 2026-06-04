@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Weather Music Recommendation</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>🌦️ Weather Music Recommendation</h1>
+
+    <div class="search-box">       
+
+        <input
+            id="city"            
+            placeholder="Agrega una ciudad (ej. San Salvador)...">
+
+        <button onclick="buscar()">
+            Buscar
+        </button>
+        <button onclick="usarUbicacion()">
+            📍 Mi ubicación
+        </button>
+    </div>
+
+    <div id="resultado"></div>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
