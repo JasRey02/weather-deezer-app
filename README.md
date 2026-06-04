@@ -84,7 +84,7 @@ https://TU-APP.onrender.com
 
 ```bash
 git clone https://github.com/TU-USUARIO/weather-deezer-app.git
-cd weather-music-app
+cd weather-deezer-app
 ```
 
 ### Instalar dependencias
