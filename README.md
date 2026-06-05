@@ -14,9 +14,11 @@ Aplicación web que recomienda música basada en las condiciones climáticas act
 
 🔗 **Aplicación en producción:**
 
-https://TU-APP.onrender.com
+https://weather-deezer-app.onrender.com
 
-> Reemplaza esta URL cuando publiques el proyecto en Render.
+## Código Fuente
+
+https://github.com/JasRey02/weather-deezer-app
 
 ---
 
